@@ -19,7 +19,7 @@
                             <r3d:subject subjectScheme="DFG">2 Life Sciences</r3d:subject>
                     <r3d:subject subjectScheme="DFG">206 Neurosciences</r3d:subject>
                     <r3d:subject subjectScheme="DFG">22 Medicine</r3d:subject>
-                <r3d:missionStatementURL>https://www.dandiarchive.org/handbook/</r3d:missionStatementURL>
+                <r3d:missionStatementURL>https://docs.dandiarchive.org</r3d:missionStatementURL>
                     <r3d:contentType contentTypeScheme="parse">Images</r3d:contentType>
                     <r3d:contentType contentTypeScheme="parse">Scientific and statistical data formats</r3d:contentType>
                             <r3d:providerType>dataProvider</r3d:providerType>
@@ -88,11 +88,11 @@
                             </r3d:institution>
                             <r3d:policy>
                 <r3d:policyName>General Policies</r3d:policyName>
-                <r3d:policyURL>https://www.dandiarchive.org/handbook/about/policies/</r3d:policyURL>
+                <r3d:policyURL>https://docs.dandiarchive.org/about/policies/</r3d:policyURL>
             </r3d:policy>
                     <r3d:policy>
                 <r3d:policyName>Terms of Use</r3d:policyName>
-                <r3d:policyURL>https://www.dandiarchive.org/handbook/about/terms/</r3d:policyURL>
+                <r3d:policyURL>https://docs.dandiarchive.org/about/terms/</r3d:policyURL>
             </r3d:policy>
                 <r3d:databaseAccess>
             <r3d:databaseAccessType>open</r3d:databaseAccessType>
@@ -132,7 +132,7 @@
                     <r3d:api apiType="REST">https://api.dandiarchive.org/swagger/</r3d:api>
                             <r3d:pidSystem>DOI</r3d:pidSystem>
                     <r3d:pidSystem>other</r3d:pidSystem>
-                <r3d:citationGuidelineURL>https://www.dandiarchive.org/handbook/10_using_dandi/</r3d:citationGuidelineURL>
+                <r3d:citationGuidelineURL>https://docs.dandiarchive.org/10_using_dandi/</r3d:citationGuidelineURL>
                     <r3d:aidSystem>ORCID</r3d:aidSystem>
                 <r3d:enhancedPublication>yes</r3d:enhancedPublication>
         <r3d:qualityManagement>unknown</r3d:qualityManagement>
